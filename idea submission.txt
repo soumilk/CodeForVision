@@ -5,13 +5,13 @@
 # describe oyur idea / solution /prototype
 
 
-we will be creating an app which can translate voice data to transcript text and than the transcript 
+we will be creating an app which can translate voice data to transcript text and then the transcripts 
 will be converted(optional) to sign language (GIFs/image/video).
 
-there are 3 stages on which we will work on:
+There are 3 stages in which we will work on:
 1. First step will be to convert speech to text(english).
-2. second step will be convert text to sign language / or we can say adding a plugin to convert text to sign language data.
-3. Third stage will be including more languages data models to our app since intially we are using English as basic language
+2. Second step will be convert text to sign language / or we can say adding a plugin to convert text to sign language data.
+3. Third stage will be including more language data models to our app since intially we are using English as basic language
    so we will be adding more local languages like Hindi, Marathi , Tamil etc to the app.
 
 Doing all this recognizing and translation work offline would require a lot of data models (data )
