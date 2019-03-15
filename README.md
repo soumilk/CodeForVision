@@ -32,13 +32,14 @@ Getting the data from the firebase using 'pyrebase'.
    * Durability of product
    * Packaging material specified(ex. Tetrapack), etc.
    <br>
-<strong>Constraints and factors on which packaging depends on:</strong>
-* Solid
-   * all properties
+<strong>Constraints and factors on which packaging depends on: </strong>
+<strong>Solid</strong>
+   * All properties
       * Dimensions
       * Orientation of product
       * Fragile nature
       * Durability / use before, etc.
+      
    * Manufacturing state
       * Powder
       * etc.
@@ -51,7 +52,8 @@ Getting the data from the firebase using 'pyrebase'.
       * Plastic
       * Cardboard
       * any other
-   * etc.
+   * etc
+
 The scope of this project is limited to the solid objects (mainly biscuit) but can be extended to the other objects as well.
 For more information, please refer [this](https://github.com/AkshitOstwal/CodeForVision/issues/6)
 
